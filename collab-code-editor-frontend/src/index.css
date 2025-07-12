@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animate-gradientBlur {
+  background-size: 200% 200%;
+  filter: blur(80px);
+}
